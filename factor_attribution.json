@@ -20,3 +20,22 @@
     }
   }
 }
+
+Training R² is 0.82 
+Testing R² is 0.65 
+
+Factor Importance (Coefficients)
+Oil (+0.45) which means higher oil prices 
+EUR/USD (–0.20) which is a stronger Euro decrease the index
+VIX (–0.35) which means more volatility decrease the index.
+XLK(+0.60) which means strong tech sector increase index
+Constant (+0.001) which causes small increase
+
+recent:
+Predicted index return=+1.2%
+Factor contributions:
+Oil=+0.6%
+XLK=+1.1%
+EUR/USD=–0.2%
+VIX=–0.4%
+Constant=+0.1%
